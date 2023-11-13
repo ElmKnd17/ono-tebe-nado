@@ -1,2 +1,1 @@
-# ono-tebe-nado
-Проект "Оно тебе надо"
+https://github.com/ElmKnd17/ono-tebe-nado.git
