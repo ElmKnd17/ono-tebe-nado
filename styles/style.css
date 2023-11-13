@@ -6,7 +6,6 @@ body {
     margin: 0 auto;
     color: #000;
     font-weight: 400;
-    /* background-color: rgb(82, 123, 155); */
 }
 
 .content {
@@ -23,7 +22,6 @@ body {
 .header__content {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    justify-content: space-between;
     align-items: center;
     width: 100%;
 }
@@ -44,10 +42,6 @@ body {
 .header__links-list-item_no-bullit {
     list-style: none;
 }
-
-.header__link {
-
-} 
 
 .header__link_active {
     text-decoration: none;
@@ -120,10 +114,6 @@ body {
     letter-spacing: normal;
 }
 
-.no-letter-spacing {
-
-}
-
 .cover__description {
     display: flex;
     justify-content: flex-end;
@@ -173,9 +163,6 @@ body {
     gap: 25px;
     margin: 30px 0;
     list-style: none;
-}
-
-.lots__card-item {
 }
 
 .card-overlay {
@@ -250,10 +237,6 @@ body {
     background-color: #000;
 }
 
-.about__logo-image {
-    
-}
-
 .about__info {
     display: flex;
     flex-direction: column;
@@ -286,18 +269,10 @@ body {
     justify-content: space-between;
 }
 
-.footer__menu {
-
-}
-
 .footer__menu-list {
     font-size: 18px;
     text-align: center;
     list-style: none;
-}
-
-.footer__menu-list-item {
-
 }
 
 .footer__menu-link_active {
@@ -313,12 +288,4 @@ body {
 .footer__social-list-item {
     width: 48px;
     height: 48px;
-}
-
-.footer__social-link {
-
-}
-
-.footer__social-icon {
-
 }
